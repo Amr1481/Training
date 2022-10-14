@@ -1,0 +1,4 @@
+Name: amr;ID: 21131;Password: 321332qw213;Balance: 50000;
+Name: mohamed;ID: 21132122;Password: 321312qw213;Balance: 30000;
+Name: ahmed;ID: 211;Password: 321332qw213;Balance: 50000;
+Name: ibrahim;ID: 210;Password: 321312qw213;Balance: 30000
